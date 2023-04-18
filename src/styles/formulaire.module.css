@@ -1,0 +1,42 @@
+.containerGen {
+  display: flex;
+  justify-content: center;
+}
+
+.containerFormulaire {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  justify-content: center;
+  align-items: center;
+  margin: 36px;
+  width: 400px;
+  padding: 24px;
+}
+
+.containerInput {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+
+.buttonValidation {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: #0070f3;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 24px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #096dd9;
+}

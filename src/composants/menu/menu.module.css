@@ -1,0 +1,39 @@
+.menu {
+  display: flex;
+  background-color: black;
+  justify-content: space-around;
+  height: 80px;
+  position: relative;
+}
+
+.containButtonMenu {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+}
+
+.buttonMenu {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 16px;
+  transition: all 0.2s ease-in-out;
+}
+
+.buttonMenu:hover {
+  color: rgb(255, 255, 255);
+  border-bottom: 3px solid white;
+}
+
+.logoMenu {
+  object-fit: contain;
+  height: 100%;
+  max-height: 80px;
+  width: auto;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
