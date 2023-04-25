@@ -10,3 +10,9 @@ En développant ce projet en React.js avec Next.js, j'ai pu acquérir les compé
 - Création de pages et le design CSS associé
 - Implémentation d'un système de tirage aléatoire pour afficher des affrontements
 - Création d'une tier list pour classer les personnages
+
+### Demo
+
+
+https://user-images.githubusercontent.com/39164405/234278236-e6dd1d0d-4914-4623-8c82-0e20cca62061.mov
+
